@@ -1,0 +1,17 @@
+{
+	"id": "d8f40e08-7f05-80cd-b72d-aedb6f07d356",
+	"title": "First Example: Execute a Query from Python",
+	"files": [
+		{
+			"path": "#preview: https://{{domain3050}}/",
+			"action": "open"
+		}
+	],
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "2-panels"
+}

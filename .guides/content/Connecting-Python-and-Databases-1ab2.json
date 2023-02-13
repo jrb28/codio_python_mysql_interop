@@ -1,0 +1,21 @@
+{
+	"id": "1ab2b3d9-ad0b-41f6-0286-dd3cbe2c1296",
+	"title": "Connecting Python and Databases",
+	"files": [
+		{
+			"path": "",
+			"action": "open"
+		},
+		{
+			"path": "",
+			"action": "open"
+		}
+	],
+	"path": [],
+	"contentType": "markdown",
+	"type": "page",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "2-panels-tree"
+}

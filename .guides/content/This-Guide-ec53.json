@@ -1,0 +1,25 @@
+{
+	"id": "ec530ba2-aee3-2a5c-4bdc-96d809a7110d",
+	"title": "This Guide",
+	"files": [
+		{
+			"path": "",
+			"action": "open"
+		},
+		{
+			"path": "",
+			"action": "open"
+		},
+		{
+			"path": "",
+			"action": "open"
+		}
+	],
+	"path": [],
+	"contentType": "markdown",
+	"type": "page",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "2-panels"
+}

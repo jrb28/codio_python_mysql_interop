@@ -1,0 +1,33 @@
+{
+	"id": "a72870cd-bf61-cce4-1fde-697fc7e4d672",
+	"title": "Practice Problem 4",
+	"files": [
+		{
+			"_path": "#tabs",
+			"_commands": [
+				{
+					"type": "tabs",
+					"content": ""
+				}
+			],
+			"_action": "close"
+		},
+		{
+			"_path": "#preview: https://{{domain3050}}/",
+			"_commands": [
+				{
+					"type": "preview",
+					"content": "https://{{domain3050}}/"
+				}
+			],
+			"_action": "open"
+		}
+	],
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "2-panels"
+}

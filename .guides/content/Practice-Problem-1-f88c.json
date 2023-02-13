@@ -1,0 +1,21 @@
+{
+	"id": "f88c48c5-4b5b-bfce-dc86-becbdbf160e1",
+	"title": "Practice Problem 1",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "#preview: https://{{domain3050}}/",
+			"action": "open"
+		}
+	],
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "2-panels"
+}

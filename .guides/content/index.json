@@ -1,0 +1,27 @@
+{
+	"title": "S-testing",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": false,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"Connecting-Python-and-Databases-1ab2",
+		"This-Guide-ec53",
+		"First-Example--Execute-a-Query-from-Python-d8f4",
+		"Executing-a-Stored-Procedure-from-Python-a7d0",
+		"Executing-a-Stored-Procedure-with-Arguments-from-Python-f88a",
+		"Your-Turn--216e",
+		"Practice-Problem-1-f88c",
+		"Practice-Problem-2-354a",
+		"Practice-Problem-3-8df4",
+		"Practice-Problem-4-a728"
+	]
+}

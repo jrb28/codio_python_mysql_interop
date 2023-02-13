@@ -1,0 +1,33 @@
+{
+	"id": "8df44c22-8cf0-91c1-3a28-a9621bc9acc8",
+	"title": "Practice Problem 3",
+	"files": [
+		{
+			"_path": "#tabs",
+			"_commands": [
+				{
+					"type": "tabs",
+					"content": ""
+				}
+			],
+			"_action": "close"
+		},
+		{
+			"_path": "#preview: https://{{domain3050}}/",
+			"_commands": [
+				{
+					"type": "preview",
+					"content": "https://{{domain3050}}/"
+				}
+			],
+			"_action": "open"
+		}
+	],
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "2-panels"
+}

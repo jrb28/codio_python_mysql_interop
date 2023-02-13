@@ -1,0 +1,52 @@
+{
+	"type": "code-output-compare",
+	"taskId": "code-output-compare-2400096822",
+	"source": {
+		"name": "Execute callproc.py",
+		"showName": true,
+		"instructions": "",
+		"command": "/home/codio/miniconda3/bin/ipython /home/codio/workspace/callproc.py",
+		"preExecuteCommand": "",
+		"options": {
+			"timeout": 30,
+			"ignoreCase": true,
+			"ignoreWhitespaces": true,
+			"ignoreNewline": true,
+			"matchSubstring": false
+		},
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 0,
+		"points": 20,
+		"showExpectedAnswer": true,
+		"arePartialPointsAllowed": false,
+		"sequence": [
+			{
+				"arguments": "",
+				"input": "",
+				"output": "[[(0, 'A Tale of Two Cities', 29.16, 'book', 1859, 'Charles Dickens', None), (1, 'The Little Prince (Le Petit Prince)', 24.83, 'book', 1943, 'Antoine de Saint-Exupéry', None), (2, \"Harry Potter and the Philosopher's Stone\", 21.2, 'book', 1997, 'J. K. Rowling', None), (3, 'And Then There Were None', 5.93, 'book', 1939, 'Agatha Christie', None), (4, 'Dream of the Red Chamber (紅樓夢)', 29.49, 'book', 1791, 'Cao Xueqin', None), (5, 'The Hobbit', 10.01, 'book', 1937, 'J. R. R. Tolkien', None), (6, 'The Lion, the Witch and the Wardrobe', 9.53, 'book', 1950, 'C. S. Lewis', None), (7, 'She: A History of Adventure', 6.38, 'book', 1887, 'H. Rider Haggard', None), (8, 'Vardi Wala Gunda', 10.19, 'book', 1992, 'Ved Prakash Sharma', None), (9, 'The Da Vinci Code', 29.32, 'book', 2003, 'Dan Brown', None), (10, 'Harry Potter and the Chamber of Secrets', 19.35, 'book', 1998, 'J. K. Rowling', None), (11, 'Harry Potter and the Prisoner of Azkaban', 12.7, 'book', 1999, 'J. K. Rowling', None), (12, 'Harry Potter and the Goblet of Fire', 20.25, 'book', 2000, 'J. K. Rowling', None), (13, 'Harry Potter and the Order of the Phoenix', 19.93, 'book', 2003, 'J. K. Rowling', None), (14, 'Harry Potter and the Half-Blood Prince', 18.3, 'book', 2005, 'J. K. Rowling', None), (15, 'Harry Potter and the Deathly Hallows', 11.67, 'book', 2007, 'J. K. Rowling', None), (16, 'The Alchemist (O Alquimista)', 26.46, 'book', 1988, 'Paulo Coelho', None), (17, 'The Catcher in the Rye', 20.55, 'book', 1951, 'J. D. Salinger', None), (18, 'The Bridges of Madison County', 23.87, 'book', 1992, 'Robert James Waller', None), (19, 'Ben-Hur: A Tale of the Christ\\n', 13.92, 'book', 1880, 'Lew Wallace\\n', None), (20, 'You Can Heal Your Life\\n', 16.35, 'book', 1984, 'Louise Hay\\n', None), (21, 'One Hundred Years of Solitude (Cien años de soledad)', 7.89, 'book', 1967, 'Gabriel García Márquez', None), (22, 'Lolita', 14.85, 'book', 1955, 'Vladimir Nabokov', None), (23, 'Heidi', 11.85, 'book', 1880, 'Johanna Spyri', None), (24, 'The Common Sense Book of Baby and Child Care', 8.38, 'book', 1946, 'Benjamin Spock', None), (25, 'Anne of Green Gables', 18.69, 'book', 1908, 'Lucy Maud Montgomery', None), (26, 'Black Beauty', 27.75, 'book', 1877, 'Anna Sewell', None), (27, 'The Name of the Rose (Il Nome della Rosa)', 18.35, 'book', 1980, 'Umberto Eco', None), (28, 'The Eagle Has Landed', 12.83, 'book', 1975, 'Jack Higgins', None), (29, 'Watership Down', 20.81, 'book', 1972, 'Richard Adams', None), (30, 'The Hite Report', 19.2, 'book', 1976, 'Shere Hite', None), (31, \"Charlotte's Web\", 24.16, 'book', 1952, 'E. B. White; illustrated by Garth Williams', None), (32, 'The Ginger Man', 22.87, 'book', 1955, 'J. P. Donleavy', None), (33, 'The Lion King', 21.21, 'movie', 1995, None, None), (34, 'Finding Nemo', 9.77, 'movie', 2003, None, None), (35, 'Snow White and the Seven Dwarfs', 9.72, 'movie', 1994, None, None), (36, 'Aladdin', 12.67, 'movie', 1993, None, None), (37, 'Beauty and the Beast', 17.55, 'movie', 1992, None, None), (38, 'Titanic', 7.47, 'movie', 1998, None, None), (39, 'Toy Story', 17.93, 'movie', 1996, None, None), (40, 'Avatar', 8.22, 'movie', 2010, None, None), (41, 'Jurassic Park', 28.99, 'movie', 1994, None, None), (42, 'Spider-Man', 6.99, 'movie', 2002, None, None), (43, 'The Little Mermaid', 28.63, 'movie', 1990, None, None), (44, 'Cinderella', 24.18, 'movie', 1988, None, None), (45, 'Shrek', 16.71, 'movie', 2001, None, None), (46, 'Independence Day', 27.51, 'movie', 1996, None, None), (47, 'Cars', 18.78, 'movie', 2006, None, None), (48, 'Frozen', 5.37, 'movie', 2014, None, None), (49, 'The Dark Knight', 15.84, 'movie', 2008, None, None), (50, 'One Hundred and One Dalmatians', 13.73, 'movie', 1992, None, None), (51, 'How the Grinch Stole Christmas', 15.55, 'movie', 2001, None, None), (52, 'Shrek 2', 10.16, 'movie', 2004, None, None)]]\nNumber of results: 1\nType of (outer) data result 0: <class 'list'>\nType of (inner) data result 0: <class 'tuple'>\n",
+				"showFeedback": false,
+				"feedback": ""
+			}
+		],
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Standard Code Test"
+				}
+			],
+			"files": [],
+			"opened": [
+				{
+					"type": "preview",
+					"content": "https://{{domain3050}}/"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}
